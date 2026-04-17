@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Frontend Developer | MCA Student @ GLA University</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Dynamic+UI+Designer;Future+Software+Engineer;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Dynamic+UI+Designer;Future+Software+Engineer;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -13,49 +13,72 @@
 - 🎓 Pursuing **MCA** from **GLA University**
 - 💻 Passionate about **Frontend Development**
 - ⚡ Love Building **Modern Dynamic UI**
-- 🌱 Currently Learning **Next.js + TypeScript**
-- 🚀 Goal: Become Top Software Engineer
-- 📫 Reach me: **yourmail@gmail.com**
+- 🌱 Learning **Next.js + TypeScript**
+- 🚀 Future Software Engineer
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,mongodb,java,c,cpp,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,mongodb,java,python,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 💻 Frontend Expertise
+## 📊 GitHub Stats
 
-```txt
-HTML5       ████████████ 95%
-CSS3        ███████████  90%
-JavaScript  ██████████   85%
-React JS    ██████████   85%
-Tailwind    █████████    80%
-Next JS     ████████     70%
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav2006-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav2006-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhav2006-max&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav2006-max&theme=tokyonight" /> </p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=vaibhav2006-max&theme=tokyonight&hide_border=true" />
+</p>
 
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2006-max&theme=tokyo-night" /> </p>
+---
 
-🐍 Contribution Snake Animation
-<p align="center"> <img src="https://raw.githubusercontent.com/vaibhav2006-max/vaibhav2006-max/output/github-contribution-grid-snake-dark.svg" /> </p>
+## 📈 Contribution Graph
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vaibhav2006-max&theme=tokyonight&row=1&column=6" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav2006-max&theme=tokyo-night&hide_border=true" />
+</p>
 
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://github.com/vaibhav2006-max"><img src="https://skillicons.dev/icons?i=github" /></a> </p>
+---
 
-🚀 Featured Projects
-🔥 Portfolio Website
-🛒 E-Commerce UI
-📊 Admin Dashboard
-🌦 Weather App
-✅ Task Manager App
-<p align="center"> ✨ <b>Code. Create. Innovate.</b> ✨ </p> ```
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav2006-max&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vaibhav2006-max">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <b>Code. Create. Innovate.</b> ✨
+</p>

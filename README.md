@@ -72,7 +72,7 @@
   <a href="mailto:mishravaibhav9811@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-mishra-00a30b399?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/vaibhav-mishra-00a30b399/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
